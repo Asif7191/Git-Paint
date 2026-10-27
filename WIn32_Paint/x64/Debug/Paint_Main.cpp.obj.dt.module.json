@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "WIn32_Paint\\x64\\Debug\\Paint_Main.obj",
+            "outputs": [
+                "WIn32_Paint\\x64\\Debug\\Paint_Main.cpp.obj.dt.module.json",
+                "WIn32_Paint\\x64\\Debug\\Paint_Main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
